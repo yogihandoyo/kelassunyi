@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ffd700;
+}
+
+#about {
+  background-color: #302f2f;
+}
+
+#anggota {
+  background-color: #ffd700;
+}
+
+#galery {
+  background-color: #302f2f;
+}
+
+#contact {
+  background-color: #ffd700;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#galery .row > * {
+  padding: 0;
+}
